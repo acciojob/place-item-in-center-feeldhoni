@@ -1,2 +1,12 @@
-
+.holder{
+	width:device-width;
+	height:device-height;
+	display:flex;
+	justify-content:center;
+}
+.item {
+	width:100px;
+	height:100px;
+	background-color:red;
+}
 /* Your CSS Code here. */
